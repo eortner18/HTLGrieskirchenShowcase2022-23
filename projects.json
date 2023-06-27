@@ -8,11 +8,27 @@
     "status": "0"
   },
   {
+    "title": "LeberkasManiac",
+    "folder": "CodenameAlpha",
+    "author": "Jakob Anzengruber",
+    "year": "2022_WS",
+    "info": "Go to the grey cube npc and get the first quest.",
+    "status": "1"
+  },
+  {
     "title": "Resistor Run",
     "folder": "ResistorRun",
     "author": "Paul Burgholzer",
     "year": "2022_WS",
     "info": "Dodge the professor's shots, once your lives are used up try your luck at solving resistances and keep playing.",
+    "status": "0"
+  },
+    {
+    "title": "Catan",
+    "folder": "Catan",
+    "author": "Tobias Schiffelhumer",
+    "year": "2022_SS",
+    "info": "Catan, previously known as The Settlers of Catan or simply Settlers, is a multiplayer board game designed by Klaus Teuber. It was first published in 1995 in Germany by Franckh-Kosmos Verlag as Die Siedler von Catan.",
     "status": "0"
   },
   {
@@ -102,5 +118,94 @@
     "year": "2022_WS",
     "info": "Daurert noch",
     "status": "1"
-  }
+  },
+  {
+    "title": "Fire & Shadow",
+    "folder": "Fire_Shadow",
+    "author": "Anna Praher",
+    "year": "2022_WS",
+    "info": "At least it looks good",
+    "status": "1"
+  },
+  {
+     "title": "Ballic",
+    "folder": "Ballic_webgl",
+    "author": "Michel Tischler",
+    "year": "2022_WS",
+    "info": "Gemoetry dash with endless levels",
+    "status": "1"
+  },
+  {     
+    "title": "Enter the Dungeon",
+    "folder": "EnterTheDungeon",
+    "author": "Emilio Kamer",
+    "year": "2022_WS",
+    "info": "Enter the dungeon fake/Unfinished",
+    "status": "1"
+  },
+  {
+    "title": "RPG Test Game",
+    "folder": "RPG Test Game",
+    "author": "Sebastian Fillip",
+    "year": "2023_WS",
+    "info": "Simpeler Test von RPG Mechanicken + custom localisationssystem",
+    "status": "0"
+  },
+  {
+    "title": "Racer",
+    "folder": "Racer",
+    "author": "Michel Aigner",
+    "year": "2022_WS",
+    "info": "Racing game",
+    "status": "1"
+  },
+  {"title": "Pacman",
+    "folder": "Pacman",
+    "author": "Michael Pramendorfer",
+    "year": "2022_WS",
+    "info": "-",
+    "status": "0"
+    },
+    {
+    "title": "Jetpack_Game",
+    "folder": "Jetpack_Game",
+    "author": "Bastian Frühauf",
+    "year": "2022_WS",
+    "info": "Jetpack Joyride fake",
+    "status": "0"
+    }, 
+    {
+    "title": "Spedrun",
+    "folder": "Spedrun",
+    "author": "Kevin Chen",
+    "year": "2023_SS",
+    "info": "Spedrun",
+    "status": "1"
+    },
+    {  
+    "title": "Second2DGame",
+    "folder": "Second2DGame",
+    "author": "Tamino Gutjahr",
+    "year": "2023_SS",
+    "info": "-",
+    "status": "0"
+    },
+    
+    {  
+    "title": "3DSchooterMyGame",
+    "folder": "3DSchooterMyGame",
+    "author": "Benedikt Chrisian",
+    "year": "2023_SS",
+    "info": "-",
+    "status": "0"
+    },
+  {  
+    "title": "HitHeads",
+    "folder": "HitHeads",
+    "author": "Michael Daurer",
+    "year": "2023_SS",
+    "info": "-",
+    "status": "0"
+    }
+  
 ]
